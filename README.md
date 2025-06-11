@@ -1,4 +1,4 @@
-![Screenshot 2025-06-11 212416](https://github.com/user-attachments/assets/d69bb1a6-8e1c-4d3b-81f9-60f0e3a4f61e)# vpn
+# vpn
 
 Objective:
 Understand the role of VPNs in protecting privacy and enabling secure communication.
@@ -8,6 +8,7 @@ Tools Used:
 VPN Provider: ProtonVPN (Free Tier)
 
 Website for IP check: whatismyipaddress.com
+![Screenshot 2025-06-11 212416](https://github.com/user-attachments/assets/d69bb1a6-8e1c-4d3b-81f9-60f0e3a4f61e)
 
 Browser: Chrome
 
